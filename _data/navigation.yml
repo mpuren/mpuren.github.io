@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "CV"
+    url: /cv/
+  - title: "Recherche"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Enseignements"
+    url: /enseignements/
+    - title: "Encadrements"
+    url: /encadrements/
+    - title: "Contacts"
+    url: /contacts/
