@@ -10,7 +10,7 @@ title: "Contact"
 - **Email académique**  
   [marie.puren@epita.fr](mailto:marie.puren@epita.fr)
 
-- **Adresse institutionnelle**  
+- **Page institutionnelle**  
   Page sur le site du LRE : [Marie Puren](https://www.lre.epita.fr/members/marie-puren/)
   
 
