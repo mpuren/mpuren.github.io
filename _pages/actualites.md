@@ -1,6 +1,6 @@
 ---
 title: "Actualités"
 permalink: /actualites/
-layout: posts
+layout: home
 author_profile: true
 ---
