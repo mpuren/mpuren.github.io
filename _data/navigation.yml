@@ -2,7 +2,7 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Recherche"
-    url: /categories/
+    url: /recherche/
   - title: "Publications"
     url: /publications/
   - title: "Enseignements"
