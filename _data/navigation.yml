@@ -8,7 +8,7 @@ main:
   - title: "Enseignements"
     url: /enseignements/
   - title: "Actualités"
-    url: /actualités/
+    url: /actualites/
   - title: "Contact"
     url: /contact/
     target: _blank
