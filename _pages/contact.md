@@ -8,10 +8,13 @@ title: "Contact"
   94270 Le Kremlin-Bicêtre, France  
 
 - **Email académique**  
-  [marie.puren@epita.fr](mailto:marie.puren@epita.fr)  
+  [marie.puren@epita.fr](mailto:marie.puren@epita.fr)
+
+- **Page sur le site du LRE**
+  [EPITA Laboratory](https://www.lre.epita.fr/members/marie-puren/)
 
 - **Réseaux professionnels**  
   - [ORCID](https://orcid.org/0000-0001-5452-3913)  
   - [Google Scholar](https://scholar.google.com/citations?user=PTy_b5AAAAAJ&hl=fr)   
   - [LinkedIn](https://www.linkedin.com/in/mariepuren/)  
-  - [Blueky](https://bsky.app/profile/mpuren.bsky.social)  
+  - [Bluesky](https://bsky.app/profile/mpuren.bsky.social)  
