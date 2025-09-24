@@ -10,8 +10,8 @@ title: "Contact"
 - **Email académique**  
   [marie.puren@epita.fr](mailto:marie.puren@epita.fr)
 
-- **Page sur le site du LRE**
-  [EPITA Laboratory](https://www.lre.epita.fr/members/marie-puren/)
+- **Page instutitionnelle**
+  Page sur le site du LRE : [Marie Puren](https://www.lre.epita.fr/members/marie-puren/)
 
 - **Réseaux professionnels**  
   - [ORCID](https://orcid.org/0000-0001-5452-3913)  
