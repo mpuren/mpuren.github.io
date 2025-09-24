@@ -7,3 +7,5 @@ author_profile: true
 ---
 
 Je suis une **enseignante-chercheuse en histoire et humanités numériques**, au sein du Laboratoire de Recherche d'EPITA (LRE).
+
+Site en cours de construction
