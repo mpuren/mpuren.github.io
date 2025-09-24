@@ -7,6 +7,8 @@ main:
     url: /publications/
   - title: "Enseignements"
     url: /enseignements/
+  - title: "Actualités"
+    url: /actualités/
   - title: "Contact"
     url: /contact/
     target: _blank
