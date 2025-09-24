@@ -7,7 +7,5 @@ main:
     url: /publications/
   - title: "Enseignements"
     url: /enseignements/
-    - title: "Encadrements"
-    url: /encadrements/
     - title: "Contacts"
     url: /contacts/
