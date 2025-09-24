@@ -1,7 +1,7 @@
 ---
 title: "Enseignements"
 layout: single
-permalink: /Enseignements/
+permalink: /enseignements/
 toc: true
 toc_label: "Catégories"
 toc_icon: "cog"
