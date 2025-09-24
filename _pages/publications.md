@@ -9,6 +9,6 @@ toc_icon: "cog"
 
 Vous trouverez sur cette page une sélection de mes publications.
 
-## Revues internationales à comité de lecture
+# Revues internationales à comité de lecture
 
-## Revue nationale à comité de lecture
+# Revues nationales à comité de lecture
