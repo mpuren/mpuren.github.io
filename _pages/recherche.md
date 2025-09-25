@@ -1,6 +1,7 @@
 ---
 permalink: /recherche/
 title: "Recherche"
+layout: splash
 ---
 Découvrez mes principales thématiques de recherche et mes projets.
 
