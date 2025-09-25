@@ -2,6 +2,7 @@
 permalink: /contact/
 title: "Contact"
 ---
+
 ## Contact et informations
 - [marie.puren[at]epita.fr](mailto:marie.puren@epita.fr)
 - [ORCID](https://orcid.org/0000-0001-5452-3913)  
