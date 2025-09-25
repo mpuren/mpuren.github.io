@@ -3,8 +3,8 @@ permalink: /cv/
 title: "Curriculum vitae"
 toc: true
 toc_label: "Sections"
-toc_icon: "cog"
-toc_sticky: false
+toc_icon: "list"
+toc_sticky: true
 ---
 Mon CV complet peut être téléchargé ici : [CV Marie Puren](https://github.com/user-attachments/files/22523367/cv_mpuren_2025.pdf)
 
