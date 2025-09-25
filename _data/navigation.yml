@@ -9,4 +9,3 @@ main:
     url: /enseignements/
   - title: "Mes actualités"
     url: /actualites/
-    target: _blank
