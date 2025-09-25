@@ -1,4 +1,3 @@
-
 ---
 title: "Splash Page"
 layout: splash
