@@ -18,8 +18,3 @@ Historienne et spécialiste des humanités numériques, je développe et coordon
 Mes recherches portent sur l'histoire politique et littéraire de la France contemporaine, l’exploitation computationnelle des débats parlementaires français et la valorisation numérique du patrimoine.
 
 Toutes mes publications ainsi que mon CV court sont disponibles sur l'archive ouverte [HAL](https://cv.hal.science/marie-puren).
-
-## Contact et informations
-- [marie.puren[at]epita.fr](mailto:marie.puren@epita.fr)
-- [ORCID](https://orcid.org/0000-0001-5452-3913)  
-- [Google Scholar](https://scholar.google.com/citations?user=PTy_b5AAAAAJ&hl=fr)  
