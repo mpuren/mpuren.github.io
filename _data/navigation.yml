@@ -8,5 +8,5 @@ main:
   - title: "Enseignements"
     url: /enseignements/
   - title: "Mes actualités"
-    url: /actualites/
+    url: /404actualites/
     target: _blank
