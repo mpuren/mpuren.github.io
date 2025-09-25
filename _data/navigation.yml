@@ -9,3 +9,5 @@ main:
     url: /enseignements/
   - title: "Mes actualités"
     url: /actualites/
+  - title: "test"
+    url: /test/
