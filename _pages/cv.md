@@ -4,6 +4,7 @@ title: "Curriculum vitae"
 toc: true
 toc_label: "Sections"
 toc_icon: "cog"
+toc_sticky
 ---
 Mon CV complet peut être téléchargé ici : [CV Marie Puren](https://github.com/user-attachments/files/22523367/cv_mpuren_2025.pdf)
 
