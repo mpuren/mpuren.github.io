@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mpuren/"
     - label: "Bluesky"
-      icon: "<i class="fa-brands fa-bluesky"></i>"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/mpuren.bsky.social"
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
