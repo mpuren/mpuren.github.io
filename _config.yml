@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marie Puren
+title: Site de Marie Puren
 email: marie.puren@epita.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Page académique de Marie Puren, enseignante-chercheuse en histoire 
