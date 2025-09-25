@@ -7,6 +7,6 @@ main:
     url: /publications/
   - title: "Enseignements"
     url: /enseignements/
-  - title: "Actualités"
+  - title: "Mes actualités"
     url: /actualites/
     target: _blank
