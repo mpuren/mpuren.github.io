@@ -9,6 +9,4 @@ main:
     url: /enseignements/
   - title: "Actualités"
     url: /actualites/
-  - title: "Contact"
-    url: /contact/
     target: _blank
