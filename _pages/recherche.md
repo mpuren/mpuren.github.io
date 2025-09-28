@@ -1,6 +1,7 @@
 ---
 permalink: /recherche/
 title: "Recherche"
+toc: true
 toc_label: "Sections"
 toc_icon: "list"
 toc_sticky: true
