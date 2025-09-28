@@ -4,7 +4,7 @@ title: "Contact"
 ---
 
 ## Pour m'écrire :
-EPITA -LRE  
+EPITA - LRE  
 12-14 rue Voltaire  
 94270 Le Kremlin-Bicêtre  
 
