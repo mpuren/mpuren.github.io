@@ -1,6 +1,8 @@
 ---
 permalink: /recherche/
 title: "Recherche"
+toc_icon: "list"
+toc_sticky: true
 ---
 Découvrez mes principales thématiques de recherche et mes projets.
 
