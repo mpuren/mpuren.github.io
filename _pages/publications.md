@@ -2,9 +2,9 @@
 title: "Publications"
 layout: single
 permalink: /publications/
-toc: true
 toc_label: "Catégories"
-toc_icon: "cog"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 Vous trouverez sur cette page une sélection de mes publications.
