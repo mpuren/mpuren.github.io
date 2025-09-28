@@ -2,7 +2,7 @@
 title: "Publications"
 layout: single
 permalink: /publications/
-toc_label: "Catégories"
+toc_label: "Catégorie"
 toc_icon: "list"
 toc_sticky: true
 ---
