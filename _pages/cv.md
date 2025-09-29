@@ -6,7 +6,7 @@ toc_label: "Sections"
 toc_icon: "list"
 toc_sticky: true
 ---
-Mon CV complet peut être téléchargé ici : [CV Marie Puren](https://github.com/user-attachments/files/22523367/cv_mpuren_2025.pdf)
+Mon CV complet peut être téléchargé ici : [CV Marie Puren](https://github.com/user-attachments/files/22594969/CV_marie_puren_2025.pdf)
 
 ## Formation
 - **Doctorat en histoire** – École nationale des chartes (2016), mention *Très honorable avec félicitations du jury*  
