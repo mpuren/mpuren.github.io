@@ -70,13 +70,11 @@ Présentation du langage XML-TEI et exercices d’application. Encodage de texte
 
 Cette section présente mon engagement dans la formation par la recherche à différents niveaux : directions de mémoire, encadrements de stages, co-encadrements de thèses, jurys d’admission et comités de suivi doctoral.
 
-## Jurys d’admission
+## Jury d’admission
 
-- **Depuis 2019** : Membre du jury de recrutement du Master *Humanités numériques*, Université PSL / École nationale des chartes  
-- **2024** : Membre du comité de sélection pour un poste de PRAG en mathématiques, ENS Paris-Saclay – CPES « Sciences des données, santé et société »  
-- **2021** : Membre du jury ITRF pour un poste d’ingénieur d’études (BAP D), ENS Lyon – Axe « Histoire numérique », LARHRA
+- **Depuis 2019** : Membre du jury de recrutement du Master *Humanités numériques*, Université PSL / École nationale des chartes 
 
-## Encadrement de thèse (co-encadrement)
+## Encadrements de thèse (co-encadrement)
 
 - **Donghan Bian** (2025– )  
   *Débattre la paix : Parlement, opinion publique et relations internationales en France dans l’entre-deux-guerres (1919–1939)*  
@@ -137,8 +135,7 @@ Cette section présente mon engagement dans la formation par la recherche à dif
 - **2022** : Fanny Lebreton – *Structuration et enrichissement automatique des débats parlementaires*, Master TNAH (PSL / ENC)  
   Co-encadrée avec Pierre Vernus (LARHRA)
 
-
-# Engagement pédagogique et académique
+# Engagements pédagogiques et académiques
 
 ## Référente pédagogique
 
