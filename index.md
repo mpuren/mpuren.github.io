@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-*Site en cours de construction*
+<span style="color:red">*Site en cours de construction*</span>
  
 Responsable de l’équipe *[Méthodes numériques en Sciences humaines et sociales](https://www.lre.epita.fr/teams/digital-methods-for-humanities-and-social-sciences/)* (MNSHS) – Laboratoire de recherche d’EPITA (LRE)  
 Chercheuse associée au [Centre Jean-Mabillon](https://www.chartes.psl.eu/recherche/le-centre-jean-mabillon) (École nationale des chartes, EA 3624)  
