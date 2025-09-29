@@ -17,7 +17,7 @@ Ils articulent réflexion critique, méthodologie de la recherche et apprentissa
 
 ## Cycle ingénieur
 
-### Éthique du numérique  
+**Éthique du numérique**  
 *EPITA – Cycle ingénieur 1re année*  
 **8 heures CM, 4 heures TD**  
 Fondamentaux d’éthique appliqués à l’intelligence artificielle. Le cours aborde les grands enjeux contemporains (biais algorithmiques, responsabilité, transparence, environnement, etc.) et initie les étudiants aux principales approches éthiques à travers des études de cas.
