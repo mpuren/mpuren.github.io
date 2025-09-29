@@ -65,10 +65,6 @@ Ils articulent réflexion critique, méthodologie de la recherche et apprentissa
 
 # Supervision et jurys
 
-## Jury d’admission
-
-- **Depuis 2019** : Membre du jury de recrutement du Master *Humanités numériques*, Université PSL / École nationale des chartes 
-
 ## Encadrements de thèse (co-encadrement)
 
 - **Donghan Bian** (2025– )  
@@ -129,6 +125,10 @@ Ils articulent réflexion critique, méthodologie de la recherche et apprentissa
 
 - **2022** : Fanny Lebreton – *Structuration et enrichissement automatique des débats parlementaires*, Master TNAH (PSL / ENC)  
   Co-encadrée avec Pierre Vernus (LARHRA)
+
+## Jury d’admission
+
+- **Depuis 2019** : Membre du jury de recrutement du Master *Humanités numériques*, Université PSL / École nationale des chartes 
 
 # Engagements pédagogiques et académiques
 
