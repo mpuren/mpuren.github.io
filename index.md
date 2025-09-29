@@ -12,10 +12,10 @@ Responsable de l’équipe *[Méthodes numériques en Sciences humaines et socia
 Chercheuse associée au [Centre Jean-Mabillon](https://www.chartes.psl.eu/recherche/le-centre-jean-mabillon) (École nationale des chartes, EA 3624)  
 Qualifiée aux fonctions de MCF en section 9 et 22.
 
+Mes publications ainsi que mon CV court sont disponibles sur l'archive ouverte [HAL](https://cv.hal.science/marie-puren).
+
 Retrouvez mes dernières activités de recherche, publications et interventions sur la page [Mes actualités](https://mpuren.github.io/actualites/).
 
 ## À propos
 Historienne et spécialiste des humanités numériques, je développe et coordonne des projets interdisciplinaires croisant histoire contemporaine, sciences sociales et intelligence artificielle.  
 Mes recherches portent sur l'histoire politique et littéraire de la France contemporaine, l’exploitation computationnelle des débats parlementaires français et la valorisation numérique du patrimoine.
-
-Toutes mes publications ainsi que mon CV court sont disponibles sur l'archive ouverte [HAL](https://cv.hal.science/marie-puren).
