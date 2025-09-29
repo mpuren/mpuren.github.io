@@ -12,7 +12,8 @@ Depuis plusieurs années, j’enseigne des cours portant sur les **humanités nu
 
 Ils articulent réflexion critique, méthodologie de la recherche et apprentissage d’outils numériques. Une large part de mes cours porte sur les humanités numériques, qu’il s’agisse d’en introduire les fondements, d’en explorer les méthodes (textométrie, TEI, R, visualisation, etc.) ou d’en questionner les enjeux épistémologiques et éthiques.
 
-# Expérience d’enseignement (sélection)
+# Expérience d’enseignement
+*Vous trouverez ci-dessous une sélection de mes enseignements passés ou en cours.*
 
 ## Cycle ingénieur
 
