@@ -20,4 +20,5 @@ Retrouvez mes dernières [actualités](https://mpuren.github.io/actualites/), in
 
 ## À propos
 Historienne et spécialiste des humanités numériques, je développe et coordonne des projets interdisciplinaires croisant histoire contemporaine, sciences sociales et intelligence artificielle. Mes recherches portent sur l'histoire politique et littéraire de la France contemporaine, l’exploitation computationnelle des débats parlementaires français et la valorisation numérique du patrimoine.
+
 Depuis plusieurs années, je suis engagée dans la structuration de la communauté scientifique des humanités numériques. Je suis membre élue du comité d'[Humanistica](https://www.humanisti.ca/), l'association francophone depuis 5 ans et je suis actuellement sa présidente. Je suis également la représentante de l’association au sein du [Constituent Organization Board de l’ADHO](https://adho.org/leadership/cob-eb/?lang=fr) (Alliance of Digital Humanities Organizations), dont je suis actuellement la présidente élue.
