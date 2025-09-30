@@ -50,4 +50,3 @@ Vous trouverez la liste complète de mes contributions dans mon [CV détaillé](
 * **2025** – Jonathan Perrinet et Marie Puren. *Reprendre le contrôle des processus de traitement de données en histoire quantitative : présentation de l’écosystème Mezzano*. **PFIA 2025**, Lille.
 * **2024** – Aurélien Pellet, Julien Perez, and Marie Puren. *Generative Artificial Intelligence and Historical Research: Application of RAG to French Parliamentary Debates*. **ENS Lyon**, novembre.
 * **2022** – Aurélien Pellet, Fanny Lebreton, Nicolas Bourgeois, Pierre Vernus, and Marie Puren. *Analysis of the French Parliamentary Debates of the Third Republic with Topic Modelling*. **Journées MASHS**, Paris.
-* **2016** – Marie Puren. *À l’épreuve de l’hétérogénéité : données de recherche et interdisciplinarité*. **DHnord 2016**, Lille.
