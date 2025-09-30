@@ -23,7 +23,7 @@ Vous trouverez la liste complète de mes contributions dans mon [CV détaillé](
 * **2020** – Ester Alba Pagán, María del Mar Gaitán Salvatella, María Dolores Pitarch, Arabella León Muñoz, María del Mar Moya Toledo, José Marin Ruiz, Maurizio Vitella, Georgia Lo Cicero, Franz Rottensteiner, Dominic Clermont, Mareike Dorozynski, Dennis Wittich, Pierre Vernus, and Marie Puren. *From Silk to Digital Technologies: The SILKNOW Case*. **Sustainability**, 12: 8279. MDPI.
 
 
-## Conférences internationales avec comité de lecture
+# Conférences internationales avec comité de lecture
 
 *(sélection, 2023–2025)*
 
