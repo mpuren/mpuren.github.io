@@ -8,9 +8,9 @@ toc_icon: "list"
 toc_sticky: true
 ---
 
-Depuis plusieurs années, j’enseigne des cours portant sur les **humanités numériques** et l'**éthique appliquée aux nouvelles technologies**. Mes enseignements s’adressent principalement à des étudiants en école d’ingénieurs et en masters en sciences humaines et sociales.
+Depuis plusieurs années, je dispense des cours portant sur les **humanités numériques** et l'**éthique appliquée aux nouvelles technologies**. Mes enseignements s’adressent principalement à des étudiants en école d’ingénieurs et en masters en sciences humaines et sociales.
 
-Ils articulent réflexion critique, méthodologie de la recherche et apprentissage d’outils numériques. Une large part de mes cours porte sur les humanités numériques, qu’il s’agisse d’en introduire les fondements, d’en explorer les méthodes (textométrie, TEI, R, visualisation, etc.) ou d’en questionner les enjeux épistémologiques et éthiques.
+Ils articulent réflexion critique, méthodologie de la recherche et apprentissage d’outils numériques. Une large part de mes cours porte sur les humanités numériques, qu’il s’agisse d’en introduire les fondements et d’en explorer les méthodes (textométrie, TEI, R, visualisation, etc.).
 
 # Expérience d’enseignement
 *Vous trouverez ci-dessous une sélection de mes enseignements passés ou en cours.*
