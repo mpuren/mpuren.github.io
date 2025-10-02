@@ -12,7 +12,7 @@ Bonjour et bienvenue sur mon site académique ! Vous y découvrirez mes recherch
 - Responsable de l’équipe *[Méthodes numériques en Sciences humaines et sociales](https://www.lre.epita.fr/teams/digital-methods-for-humanities-and-social-sciences/)* (MNSHS) – Laboratoire de recherche d’EPITA (LRE)  
 - Chercheuse associée au [Centre Jean-Mabillon](https://www.chartes.psl.eu/recherche/le-centre-jean-mabillon) (École nationale des chartes, EA 3624)
 - Coordinatrice du projet ANR DECIDON (AAPG 2025)
-- Qualifiée aux fonctions de MCF en section 9 et 22
+- Qualifiée aux fonctions de MCF en sections 9 et 22
 
 Mes publications ainsi que mon CV court sont disponibles sur l'archive ouverte [HAL](https://cv.hal.science/marie-puren).
 
