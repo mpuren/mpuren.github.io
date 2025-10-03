@@ -65,7 +65,7 @@ Ils articulent réflexion critique, méthodologie de la recherche et apprentissa
 
 # Supervision et jurys
 
-## Encadrements de thèse (co-encadrement)
+## Encadrements de thèse
 
 - **Donghan Bian** (2025– )  
   *Débattre la paix : Parlement, opinion publique et relations internationales en France dans l’entre-deux-guerres (1919–1939)*  
