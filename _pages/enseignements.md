@@ -101,15 +101,15 @@ Ils articulent réflexion critique, méthodologie de la recherche et apprentissa
 
 - **2024–2025** : Donghan Bian – *Le multilatéralisme entre 1929 et 1939*, Master « Humanités numériques », PSL / ENC (co-dir. Florian Cafiero)  
 - **2024–2025** : Pia de Ladoucette – *Cartographier les mutations idéologiques dans la presse d’extrême droite (1934–1944)*, Master « Humanités numériques », PSL / ENC (co-dir. Katarzyna Kapitan)  
-- **2023–2024** : Violette Saïag – *Du « moi, lesbienne » au « nous, les lesbiennes »*, Master « Études sur le genre », EHESS (co-dir. Regis Schlagdenhauffen)  
-- **2021–2023** : Violette Saïag – *Déjouer les silences*, Master « Humanités numériques », PSL / ENC (co-dir. Regis Schlagdenhauffen)  
+- **2023–2024** : Violette Saïag – *Du « moi, lesbienne » au « nous, les lesbiennes »*, Master « Études sur le genre », EHESS (co-dir. Regis Schlagdenhauffen)
+- **2022–2023** : Mai Lan Lopez – *Femmes et hommes domestiques dans la presse d’annonces (1750–1815)*, Master « Humanités numériques », PSL / ENC (co-dir. Clyde Plumauzille)  
+- **2022–2023** : Violette Saïag – *Déjouer les silences*, Master « Humanités numériques », PSL / ENC (co-dir. Regis Schlagdenhauffen)  
 - **2019–2020** : Alice Dionnet – *Romans d’aventures et RPG : proximité narrative et apport interactif*, Master « Humanités numériques », PSL / ENC (co-dir. Jean-Baptiste Camps)  
 - **2019–2020** : Marina Giardinetti – *Pratiques artistiques des dessinateurs de la Society of Arts*, Master « Humanités numériques », PSL / ENC (co-dir. Jean-Baptiste Camps)
 
 ### Mémoires de Master 1
 
 - **2023–2024** : Pierre-Alexandre Nistor – *Histoire politique de l’environnement au Parlement (1881–1939)*, Master « Humanités numériques », PSL / ENC (co-dir. Chahan Vidal-Gorène)  
-- **2022–2023** : Mai Lan Lopez – *Femmes et hommes domestiques dans la presse d’annonces (1750–1815)*, Master « Humanités numériques », PSL / ENC (co-dir. Clyde Plumauzille)  
 - **2021–2023** : Violette Saïag – *Déjouer les silences*, Master « Humanités numériques », PSL / ENC (co-dir. Regis Schlagdenhauffen)
 
 ## Encadrements de stages
