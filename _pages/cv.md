@@ -27,12 +27,10 @@ Mon CV complet peut être téléchargé ici : [CV Marie Puren](https://github.co
 
 Participation à trois projets Horizon 2020 entre 2018 et 2021 (**[PARTHENOS](https://cordis.europa.eu/project/id/654119)**, **[IPERION-CH](https://cordis.europa.eu/project/id/654028)** et **[SILKNOW](https://cordis.europa.eu/project/id/769504)**) et à un projet ANR (**[TIME-US](https://timeus.hypotheses.org)**)
 
-## Co-encadrements de thèses
-- Donghan Bian – *Débattre la paix : Parlement, opinion publique et relations internationales en France dans l’entre-deux-guerres (1919-1939)*, sous la direction d'Edouard Vasseur, École nationale des chartes (depuis 2025)  
-- Aurélien Pellet – *Contributions à la génération augmentée par récupération et application à la recherche historique*, sous la direction de Laurent Romary, Inria (depuis 2025)  
-- Violette Saïag – *Une sociologie de l'histoire littéraire à l'aide de méthodes computationnelles : analyse des conditions d'émergence et de l'héritage de la littérature lesbienne de la Belle Époque dans la littérature française du début du XIXe siècle à nos jours*, sous la direction de Nicolas Baumard, École normale supérieure (depuis 2024)  
+## Encadrements de jeunes chercheurs
+- Co-encadrements de deux thèses en humanités numériques (Donghan Bian (depuis 2025) et Violette Saïag (depuis 2024)) et d'une thèse en informatique (Aurélien Pellet (depuis 2025))
 
-Encadrement de plusieurs stages et d'une dizaine de mémoires en humanités numériques.
+- Encadrement de plusieurs stages et d'une dizaine de mémoires en humanités numériques.
 
 ## Mandats électifs et engagements dans des sociétés savantes
 - **Présidente élue (2025–aujourd'hui)** du *Constituent Organization Board* (COB), Alliance of Digital Humanities Organizations (ADHO) 
