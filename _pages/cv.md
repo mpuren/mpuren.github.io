@@ -15,17 +15,17 @@ Mon CV complet peut être téléchargé ici : [CV Marie Puren](https://github.co
 - **Master Nouvelles technologies appliquées à l’histoire** (aujourd'hui, master TNAH) – École nationale des chartes (2008)
   
 ## Expérience professionnelle
-- **Depuis 2022** – Enseignante-chercheuse, EPITA (Paris), équipe MNSHS, LRE  
+- **Depuis 2022** – Enseignante-chercheuse, EPITA (Paris), LRE  
 - **2021–2022** – Enseignante-chercheuse, Epitech (Paris), laboratoire MNSHS  
 - **2018–2021** – Chercheuse postdoctorale, LARHRA (CNRS, Lyon 2 & Lyon 3)  
-- **2016–2018** – Ingénieure de recherche, Inria (équipe ALMAnaCH, Paris)  
+- **2016–2018** – Ingénieure de recherche, Inria (Paris), équipe ALMAnaCH
 
 ## Projets de recherche
 - **DECIDON (2026–2029)** – Coordinatrice scientifique – Projet ANR sur l’analyse computationnelle des débats parlementaires (EPITA, BnF, ENC, EHESS, Inria, LARHRA)  
 - **FRONT_JUSTICE (2022–aujourd'hui)** – Participation – Projet Fondation des Sciences du Patrimoine (UVSQ)  
 - **AGODA (2021–2023)** – Co-porteuse – Projet BnF DataLab sur les débats parlementaires de la Troisième République
 
-Participation à trois projets Horizon 2020 entre 2018 et 2021 (**[PARTHENOS](https://cordis.europa.eu/project/id/654119)**, **[IPERION-CH](https://cordis.europa.eu/project/id/654028)** et **[SILKNOW](https://cordis.europa.eu/project/id/769504)**)
+Participation à trois projets Horizon 2020 entre 2018 et 2021 (**[PARTHENOS](https://cordis.europa.eu/project/id/654119)**, **[IPERION-CH](https://cordis.europa.eu/project/id/654028)** et **[SILKNOW](https://cordis.europa.eu/project/id/769504)**) et à un projet ANR (**[TIME-US](https://timeus.hypotheses.org)**)
 
 ## Co-encadrements de thèses
 - Donghan Bian – *Débattre la paix : Parlement, opinion publique et relations internationales en France dans l’entre-deux-guerres (1919-1939)*, sous la direction d'Edouard Vasseur, École nationale des chartes (depuis 2025)  
