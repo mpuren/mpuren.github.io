@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-Bonjour et bienvenue sur mon site académique ! Vous y découvrirez mes recherches, mes projets en cours ainsi que mes actualités.
+Bonjour et bienvenue sur mon site académique ! Vous y découvrirez mes recherches et mes projets en cours. Retrouvez mes dernières [actualités](https://mpuren.github.io/actualites/), incluant mes activités de recherche, publications et interventions.
 
 ## En bref
 - Responsable de l’équipe *[Méthodes numériques en Sciences humaines et sociales](https://www.lre.epita.fr/teams/digital-methods-for-humanities-and-social-sciences/)* (MNSHS) – Laboratoire de recherche d’EPITA (LRE)  
@@ -15,8 +15,6 @@ Bonjour et bienvenue sur mon site académique ! Vous y découvrirez mes recherch
 - Qualifiée aux fonctions de MCF en sections 9 et 22
 
 Mes publications ainsi que mon CV court sont disponibles sur l'archive ouverte [HAL](https://cv.hal.science/marie-puren).
-
-Retrouvez mes dernières [actualités](https://mpuren.github.io/actualites/), incluant mes activités de recherche, publications et interventions.
 
 ## À propos
 Historienne et spécialiste des humanités numériques, je développe et coordonne des projets interdisciplinaires croisant histoire contemporaine, sciences sociales et intelligence artificielle. Mes recherches portent sur l'histoire politique et littéraire de la France contemporaine, l’exploitation computationnelle des débats parlementaires français et la valorisation numérique du patrimoine.
