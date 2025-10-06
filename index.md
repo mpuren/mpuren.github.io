@@ -6,7 +6,9 @@ layout: single
 author_profile: true
 ---
 
-Bonjour et bienvenue sur mon site académique ! Vous y découvrirez mes recherches et mes projets en cours. Retrouvez mes dernières [actualités](https://mpuren.github.io/actualites/), incluant mes activités de recherche, publications et interventions.
+Bonjour et bienvenue sur mon site académique ! Vous y découvrirez mes recherches et mes projets en cours.
+
+Retrouvez également mes dernières [actualités](https://mpuren.github.io/actualites/), incluant mes activités de recherche, publications et interventions.
 
 ## En bref
 - Responsable de l’équipe *[Méthodes numériques en Sciences humaines et sociales](https://www.lre.epita.fr/teams/digital-methods-for-humanities-and-social-sciences/)* (MNSHS) – Laboratoire de recherche d’EPITA (LRE)  
